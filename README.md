@@ -1,1 +1,2 @@
-# todo-list-js
+# Aplicação de estudo
+TodoList implementado com javascript
